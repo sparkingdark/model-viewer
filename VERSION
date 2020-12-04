@@ -1,0 +1,5 @@
+commit a84b36377a4f6095aa5a8474cdca69e6d2a17b43
+Author: Emmett Lalish <elalish@google.com>
+Date:   Fri Dec 4 14:21:30 2020 -0800
+
+    avoid render scale rounding errors (#1747)
